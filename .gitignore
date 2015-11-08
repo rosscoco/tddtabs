@@ -1,0 +1,4 @@
+calcpro.sublime-project
+calcpro-sublime-workspace
+
+node_modules/**/bin

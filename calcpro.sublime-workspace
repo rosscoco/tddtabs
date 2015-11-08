@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"K",
+				"KARMA_CONFIG"
+			],
+			[
+				"lint",
+				"lintGlobals"
+			],
+			[
+				"prod",
+				"productInputSet"
+			],
+			[
+				"pot",
+				"pottingSet"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"rem",
+				"remainingPots"
+			],
+			[
+				"last",
+				"lastPot"
+			],
+			[
+				"test",
+				"testPots"
+			],
+			[
+				"with",
+				"withPots"
+			],
+			[
+				"ca",
+				"capacity"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"potD",
+				"potDomElement"
+			],
+			[
+				"used",
+				"usedPotIds"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"produc",
+				"productToFill"
+			],
+			[
+				"to",
+				"toReturn"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"even",
+				"eventDataFile"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Rossco/Documents/letscode/projectfiles/bundle.js",
+		"/Users/Rossco/Documents/letscode/projectfiles/karma.conf.js",
+		"/Users/Rossco/Documents/letscode/projectfiles/.gitignore",
+		"/Users/Rossco/Documents/letscode/projectfiles/src/index.html",
+		"/Users/Rossco/Documents/letscode/projectfiles/src/_addition_test.js",
+		"/Users/Rossco/Documents/letscode/projectfiles/src/app.js",
+		"/Users/Rossco/Documents/letscode/projectfiles/generated/deploy/index.html",
+		"/Users/Rossco/Documents/letscode/projectfiles/jakefile.js",
+		"/Users/Rossco/Documents/letscode/projectfiles/src/addition.js",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/JavaScript/iife.sublime-snippet",
+		"/Users/Rossco/Documents/letscode/projectfiles/src/test.js",
+		"/Users/Rossco/Documents/letscode/projectfiles/jake.sh",
+		"/Users/Rossco/Documents/letscode/letscode.sublime-project",
+		"/Users/Rossco/Documents/letscode/letscode.sublime-workspace",
+		"/Users/Rossco/Documents/letscode/src/jakefile.js",
+		"/Users/Rossco/Documents/letscode/howtotabs.sublime-project",
+		"/Users/Rossco/Documents/letscode/readme.md",
+		"/Users/Rossco/Documents/letscode/howtotabs.sublime-workspace",
+		"/Users/Rossco/Documents/ewa/calc/public/r.html",
+		"/Users/Rossco/Documents/ewa/calc/public/style.css",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/Rossco/Documents/ewa/calc/public/index.html",
+		"/Users/Rossco/Documents/_angular/app/app/css/app.css",
+		"/Users/Rossco/Desktop/Mastering Github/README",
+		"/Users/Rossco/Desktop/Your numbers",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/Rossco/Documents/_angular/app/gulpfile.js",
+		"/Users/Rossco/Documents/_angular/app/app/js/app.js",
+		"/Users/Rossco/Documents/_angular/app/app/lib/bootstrap.css",
+		"/Users/Rossco/Documents/_angular/app/app/index.html",
+		"/Users/Rossco/Documents/_angular/app/app/js/controllers.js",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/Emmet/Default.sublime-commands",
+		"/Users/Rossco/Documents/_angular/app/app/js/filters.js",
+		"/Users/Rossco/Documents/_angular/app/app/js/directives.js",
+		"/Users/Rossco/Documents/_angular/app/app/js/services.js",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/FolderFiles/readme.md",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/PyV8/osx/config.json",
+		"/Users/Rossco/Desktop/config.json",
+		"/Users/Rossco/Desktop/EPIC",
+		"/Users/Rossco/Documents/_angular/angular-seed/bower.json",
+		"/private/etc/php.ini.default",
+		"/Users/Rossco/Desktop/Add Virtual Host to apache",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/Rossco/Desktop/battlestar galactica  s04e10/battlestar.galactica.410.dvdrip-rwd.nfo",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Rossco/Documents/jquery/jquery.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lint",
+			"clean",
+			");\n",
+			"eqeqeq",
+			"package",
+			"EXPECTED_NODE_VERSION",
+			"console.table",
+			"doPottingWithProducts",
+			"toReturn",
+			"nextProductSet",
+			"debug",
+			"getBestPottingSet",
+			"amountMoved",
+			"needed",
+			"checkRules",
+			"checkrules",
+			"checkRules",
+			"checkRule",
+			"filllas",
+			"potProduct",
+			"getBestPottingSet",
+			"_availablePots[ i ]",
+			"potProduc",
+			"potProduct",
+			"sendToPottingSets",
+			"getPotPermutations",
+			");\n",
+			"filling",
+			"console.table",
+			"potProduct",
+			"sendToPottingSets",
+			"console.table",
+			"doPott",
+			"btn_fillTanker",
+			"usedPots",
+			"getUsedPotsById",
+			"used",
+			"remain",
+			"pottingInputSet",
+			"tabs",
+			"btn_pot",
+			"<button class=\"btn_clear\">Pot</button>",
+			"∂",
+			"id=\"btn",
+			"id=\"btn_pot\"",
+			"../fonts/glyphicons",
+			".ttt",
+			"chev",
+			"tag",
+			"wrap",
+			"//",
+			"wrap",
+			"sql",
+			"virtual",
+			"VirtualHost",
+			"NameVirtualHost",
+			"close"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./glyphicons"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
