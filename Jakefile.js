@@ -1,17 +1,13 @@
 /* globals task:false, desc:false, complete:false, fail:false,  jake:false */
-
-
-
-
 (function()
 {
 	"use strict";
 
 	var DEPLOY_DIR	= ".";
 
-
 	var jsHint = require("simplebuild-jshint");
 	var semver = require("semver");
+	
 
 	desc("Building Project: .");
 	task("default",["checkversion","lint"], function()
@@ -44,13 +40,11 @@
 	{
 		console.log('Linting JS: .');
 
-		jsHint.checkFiles( { 	files:["Jakefile.js"],
+		jsHint.checkFiles( { 	files:["Jakefile.js", "./src/**/*.js"],
 								options:lintingOptions(),
 								globals:lintingGlobals()
-							},	complete, fail);
+							},	complete, fail );
 	});
-
-
 
 	function lintingOptions()
 	{
