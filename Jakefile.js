@@ -7,13 +7,30 @@
 {
 	"use strict";
 
-	var DEPLOY_DIR = ".";
+	var DEPLOY_DIR	= ".";
+
+
 	var jsHint = require("simplebuild-jshint");
+	var semver = require("semver");
 
 	desc("Building Project: .");
-	task("default",["lint"], function()
+	task("default",["checkversion","lint"], function()
 	{
 		console.log("Build OK!");
+	});
+
+	desc("Checking Node Version: .");
+	task("checkversion", function()
+	{
+		console.log("Checking Node Version: .");
+
+		var expectedVersion = require("./package.json").engines.node;
+		var actualVersion	= process.version;
+
+		if ( semver.neq( actualVersion, expectedVersion ) )
+		{
+			fail("Expected Node Version " + expectedVersion + ", got " + actualVersion );
+		}
 	});
 
 	desc("Launching HTTP: .");
