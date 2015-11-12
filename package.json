@@ -13,21 +13,5 @@
     "jake": "^8.0.12",
     "jshint": "^2.8.0",
     "simplebuild-jshint": "^1.1.0"
-  },
-  "jsHintOptions": {
-    "bitwise": "true",
-    "eqeqeq": "true",
-    "forin": "true",
-    "freeze": "true",
-    "futurehostile": "true",
-    "latedef": "nofunc",
-    "noarg": "true",
-    "nocomma": "true",
-    "nonbsp": "true",
-    "nonew": "true",
-    "strict": "true",
-    "undef": "true",
-    "node": "true",
-    "browser": "true"
   }
 }
