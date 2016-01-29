@@ -4,16 +4,28 @@
 		"selected_items":
 		[
 			[
+				"kara",
+				"karma-start"
+			],
+			[
+				"ex",
+				"expectedVersion"
+			],
+			[
+				"lin",
+				"lintingGlobals"
+			],
+			[
+				"lint",
+				"lintingOptions"
+			],
+			[
 				"node",
 				"node_modules"
 			],
 			[
 				"K",
 				"KARMA_CONFIG"
-			],
-			[
-				"lint",
-				"lintGlobals"
 			],
 			[
 				"prod",
@@ -107,13 +119,99 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Jakefile.js",
+			"settings":
+			{
+				"buffer_size": 2132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <script src=\"app.js\"></script>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n    </head>\n    <body>\n        <!--[if lt IE 7]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n        <!-- Add your site or application content here -->\n        <p>Hello world! This is HTML5 Boilerplate.</p>\n\n        <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>\n        <script>window.jQuery || document.write('<script src=\"js/vendor/jquery-1.10.2.min.js\"><\\/script>')</script>\n\n        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n        <script>\n            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n            e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n            e.src='//www.google-analytics.com/analytics.js';\n            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));\n            ga('create','UA-XXXXX-X');ga('send','pageview');\n        </script>\n    </body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/addition.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app.js",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix",
+				"name": "app.js"
+			}
+		},
+		{
+			"file": "src/_addition_test.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "test.js"
+			}
+		},
+		{
+			"file": "karma.conf.js",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/addition.js",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/_addition_test.js",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 287.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
@@ -135,10 +233,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"packa",
-				"Package Control: Install Package"
-			],
-			[
 				"pa",
 				"Package Control: Install Package"
 			],
@@ -147,7 +241,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 467.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -164,6 +258,17 @@
 	},
 	"file_history":
 	[
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/MacTerminal/Default.sublime-keymap",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/User/MacTerminal.sublime-settings",
+		"/Users/Rossco/Documents/ewa/calcproj/jake.sh",
+		"/Users/Rossco/Documents/ewa/calcproj/index.html",
+		"/Users/Rossco/Documents/ewa/calcproj/Jakefile.js",
+		"/Users/Rossco/Documents/ewa/calcproj/.gitignore",
+		"/Users/Rossco/Documents/ewa/calcproj/build/lintoptions.json",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/MacTerminal/MacTerminal.sublime-settings",
+		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Rossco/Documents/ewa/calcproj/jakefile.sh",
+		"/Users/Rossco/Documents/ewa/calcproj/Jakefile.sh",
 		"/Users/Rossco/Documents/letscode/projectfiles/bundle.js",
 		"/Users/Rossco/Documents/letscode/projectfiles/karma.conf.js",
 		"/Users/Rossco/Documents/letscode/projectfiles/.gitignore",
@@ -209,7 +314,6 @@
 		"/private/etc/apache2/httpd.conf",
 		"/Users/Rossco/Desktop/battlestar galactica  s04e10/battlestar.galactica.410.dvdrip-rwd.nfo",
 		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/Rossco/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/Rossco/Documents/jquery/jquery.js"
 	],
 	"find":
@@ -229,6 +333,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"KARMA_CONFIG",
+			"		{",
+			"req",
 			"lint",
 			"clean",
 			");\n",
@@ -304,8 +411,253 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Jakefile.js",
+					"settings":
+					{
+						"buffer_size": 2132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 103.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1764,
+								1764
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/Rossco/Documents/ewa/calcproj/src/content",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/addition.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/js/app.js",
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/_addition_test.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "karma.conf.js",
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/js/addition.js",
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/js/_addition_test.js",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

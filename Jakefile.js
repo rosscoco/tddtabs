@@ -4,13 +4,16 @@
 	"use strict";
 
 	var DEPLOY_DIR	= ".";
+	var KARMA_CONFIG = "./karma.conf.js";
 
 	var jsHint = require("simplebuild-jshint");
 	var semver = require("semver");
+	var karma	= require("simplebuild-karma");
 	
 
 	desc("Building Project: .");
-	task("default",["checkversion","lint"], function()
+
+	task("default",["checkversion","lint","http", "karma-start"], function()
 	{
 		console.log("Build OK!");
 	});
@@ -32,7 +35,7 @@
 	desc("Launching HTTP: .");
 	task("http", function()
 	{
-		//jake.exec("node_modules/http-server/bin/http-server/" + DEPLOY_DIR, {interactive:true}, complete );
+		jake.exec("node_modules/http-server/bin/http-server " + DEPLOY_DIR, {interactive:true}, complete );
 	});
 
 	desc("Linting JS Files: .");
@@ -44,6 +47,20 @@
 								options:lintingOptions(),
 								globals:lintingGlobals()
 							},	complete, fail );
+	});
+
+	desc("Starts the Karma server process");
+	task("karma-start", function()
+	{
+		karma.start({configFile:KARMA_CONFIG}, complete, fail );
+	});
+
+	desc("Running Karma Tests: .");
+	task("karma-test", function()
+	{
+		karma.run({configFile:KARMA_CONFIG,
+			expectedBrowsers:["Firefox 42.0.0 (Mac OS X 10.6.0)"],
+			strict:false } , complete, fail );
 	});
 
 	function lintingOptions()
