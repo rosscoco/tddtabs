@@ -1,0 +1,1068 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/ubuntu/.nvm/versions/node/v4.1.1/bin/node',
+1 verbose cli   '/home/ubuntu/.nvm/versions/node/v4.1.1/bin/npm',
+1 verbose cli   'rebuild' ]
+2 info using npm@2.14.4
+3 info using node@v4.1.1
+4 info readInstalled object
+5 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs', 'calcproj@1.0.0' ]
+6 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma-commonjs',
+6 verbose rebuild   'karma-commonjs@0.0.13' ]
+7 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma-mocha',
+7 verbose rebuild   'karma-mocha@0.2.0' ]
+8 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/semver',
+8 verbose rebuild   'semver@5.0.3' ]
+9 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/chai',
+9 verbose rebuild   'chai@3.4.1' ]
+10 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/assertion-error',
+10 verbose rebuild   'assertion-error@1.0.1' ]
+11 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/deep-eql',
+11 verbose rebuild   'deep-eql@0.1.3' ]
+12 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/deep-eql/node_modules/type-detect',
+12 verbose rebuild   'type-detect@0.1.1' ]
+13 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/type-detect',
+13 verbose rebuild   'type-detect@1.0.0' ]
+14 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs',
+14 verbose rebuild   'commonjs@0.0.1' ]
+15 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/test',
+15 verbose rebuild   'test@0.6.0' ]
+16 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/test/node_modules/ansi-font',
+16 verbose rebuild   'ansi-font@0.0.2' ]
+17 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system',
+17 verbose rebuild   'system@1.0.4' ]
+18 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q',
+18 verbose rebuild   'q@2.0.3' ]
+19 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q/node_modules/asap',
+19 verbose rebuild   'asap@2.0.3' ]
+20 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q/node_modules/pop-iterate',
+20 verbose rebuild   'pop-iterate@1.0.1' ]
+21 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q/node_modules/weak-map',
+21 verbose rebuild   'weak-map@1.0.5' ]
+22 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server',
+22 verbose rebuild   'http-server@0.8.5' ]
+23 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/colors',
+23 verbose rebuild   'colors@1.0.3' ]
+24 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/optimist',
+24 verbose rebuild   'optimist@0.6.1' ]
+25 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/optimist/node_modules/wordwrap',
+25 verbose rebuild   'wordwrap@0.0.3' ]
+26 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/optimist/node_modules/minimist',
+26 verbose rebuild   'minimist@0.0.10' ]
+27 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/union',
+27 verbose rebuild   'union@0.4.4' ]
+28 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/union/node_modules/qs',
+28 verbose rebuild   'qs@2.3.3' ]
+29 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic',
+29 verbose rebuild   'ecstatic@0.7.6' ]
+30 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/he',
+30 verbose rebuild   'he@0.5.0' ]
+31 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/mime',
+31 verbose rebuild   'mime@1.3.4' ]
+32 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/minimist',
+32 verbose rebuild   'minimist@1.2.0' ]
+33 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/url-join',
+33 verbose rebuild   'url-join@0.0.1' ]
+34 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/http-proxy',
+34 verbose rebuild   'http-proxy@1.12.0' ]
+35 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/http-proxy/node_modules/eventemitter3',
+35 verbose rebuild   'eventemitter3@1.1.1' ]
+36 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/http-proxy/node_modules/requires-port',
+36 verbose rebuild   'requires-port@0.0.1' ]
+37 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder',
+37 verbose rebuild   'portfinder@0.4.0' ]
+38 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder/node_modules/async',
+38 verbose rebuild   'async@0.9.0' ]
+39 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder/node_modules/mkdirp',
+39 verbose rebuild   'mkdirp@0.5.1' ]
+40 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder/node_modules/mkdirp/node_modules/minimist',
+40 verbose rebuild   'minimist@0.0.8' ]
+41 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/opener',
+41 verbose rebuild   'opener@1.4.1' ]
+42 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/corser',
+42 verbose rebuild   'corser@2.0.0' ]
+43 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha',
+43 verbose rebuild   'mocha@2.3.3' ]
+44 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/commander',
+44 verbose rebuild   'commander@2.3.0' ]
+45 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/debug',
+45 verbose rebuild   'debug@2.0.0' ]
+46 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/debug/node_modules/ms',
+46 verbose rebuild   'ms@0.6.2' ]
+47 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/diff',
+47 verbose rebuild   'diff@1.4.0' ]
+48 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/escape-string-regexp',
+48 verbose rebuild   'escape-string-regexp@1.0.2' ]
+49 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob',
+49 verbose rebuild   'glob@3.2.3' ]
+50 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/minimatch',
+50 verbose rebuild   'minimatch@0.2.14' ]
+51 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+51 verbose rebuild   'lru-cache@2.7.0' ]
+52 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+52 verbose rebuild   'sigmund@1.0.1' ]
+53 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/graceful-fs',
+53 verbose rebuild   'graceful-fs@2.0.3' ]
+54 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/inherits',
+54 verbose rebuild   'inherits@2.0.1' ]
+55 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/growl',
+55 verbose rebuild   'growl@1.8.1' ]
+56 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/jade',
+56 verbose rebuild   'jade@0.26.3' ]
+57 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/jade/node_modules/commander',
+57 verbose rebuild   'commander@0.6.1' ]
+58 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/jade/node_modules/mkdirp',
+58 verbose rebuild   'mkdirp@0.3.0' ]
+59 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/mkdirp',
+59 verbose rebuild   'mkdirp@0.5.0' ]
+60 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/mkdirp/node_modules/minimist',
+60 verbose rebuild   'minimist@0.0.8' ]
+61 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/supports-color',
+61 verbose rebuild   'supports-color@1.2.0' ]
+62 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake',
+62 verbose rebuild   'jake@8.0.12' ]
+63 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist',
+63 verbose rebuild   'filelist@0.0.4' ]
+64 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/minimatch',
+64 verbose rebuild   'minimatch@0.3.0' ]
+65 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/lru-cache',
+65 verbose rebuild   'lru-cache@2.7.0' ]
+66 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/sigmund',
+66 verbose rebuild   'sigmund@1.0.1' ]
+67 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/utilities',
+67 verbose rebuild   'utilities@0.0.37' ]
+68 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/minimatch',
+68 verbose rebuild   'minimatch@0.2.14' ]
+69 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/minimatch/node_modules/lru-cache',
+69 verbose rebuild   'lru-cache@2.7.0' ]
+70 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/minimatch/node_modules/sigmund',
+70 verbose rebuild   'sigmund@1.0.1' ]
+71 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk',
+71 verbose rebuild   'chalk@0.4.0' ]
+72 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk/node_modules/has-color',
+72 verbose rebuild   'has-color@0.1.7' ]
+73 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk/node_modules/ansi-styles',
+73 verbose rebuild   'ansi-styles@1.0.0' ]
+74 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk/node_modules/strip-ansi',
+74 verbose rebuild   'strip-ansi@0.1.1' ]
+75 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/utilities',
+75 verbose rebuild   'utilities@1.0.4' ]
+76 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/async',
+76 verbose rebuild   'async@0.9.2' ]
+77 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint',
+77 verbose rebuild   'simplebuild-jshint@1.1.0' ]
+78 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild',
+78 verbose rebuild   'simplebuild@0.5.0' ]
+79 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/array-to-sentence',
+79 verbose rebuild   'array-to-sentence@1.0.3' ]
+80 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob',
+80 verbose rebuild   'glob@3.2.11' ]
+81 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/inherits',
+81 verbose rebuild   'inherits@2.0.1' ]
+82 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch',
+82 verbose rebuild   'minimatch@0.3.0' ]
+83 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+83 verbose rebuild   'lru-cache@2.7.0' ]
+84 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+84 verbose rebuild   'sigmund@1.0.1' ]
+85 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/object-assign',
+85 verbose rebuild   'object-assign@4.0.1' ]
+86 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/q',
+86 verbose rebuild   'q@0.9.7' ]
+87 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma',
+87 verbose rebuild   'simplebuild-karma@0.8.1' ]
+88 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild',
+88 verbose rebuild   'simplebuild@0.5.0' ]
+89 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/array-to-sentence',
+89 verbose rebuild   'array-to-sentence@1.0.3' ]
+90 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob',
+90 verbose rebuild   'glob@3.2.11' ]
+91 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/inherits',
+91 verbose rebuild   'inherits@2.0.1' ]
+92 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/minimatch',
+92 verbose rebuild   'minimatch@0.3.0' ]
+93 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+93 verbose rebuild   'lru-cache@2.7.0' ]
+94 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+94 verbose rebuild   'sigmund@1.0.1' ]
+95 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/object-assign',
+95 verbose rebuild   'object-assign@4.0.1' ]
+96 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/q',
+96 verbose rebuild   'q@0.9.7' ]
+97 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint',
+97 verbose rebuild   'jshint@2.8.0' ]
+98 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli',
+98 verbose rebuild   'cli@0.6.6' ]
+99 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob',
+99 verbose rebuild   'glob@3.2.11' ]
+100 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/inherits',
+100 verbose rebuild   'inherits@2.0.1' ]
+101 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch',
+101 verbose rebuild   'minimatch@0.3.0' ]
+102 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+102 verbose rebuild   'lru-cache@2.7.0' ]
+103 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+103 verbose rebuild   'sigmund@1.0.1' ]
+104 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/exit',
+104 verbose rebuild   'exit@0.1.2' ]
+105 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/console-browserify',
+105 verbose rebuild   'console-browserify@1.1.0' ]
+106 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/console-browserify/node_modules/date-now',
+106 verbose rebuild   'date-now@0.1.4' ]
+107 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2',
+107 verbose rebuild   'htmlparser2@3.8.3' ]
+108 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler',
+108 verbose rebuild   'domhandler@2.3.0' ]
+109 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domelementtype',
+109 verbose rebuild   'domelementtype@1.3.0' ]
+110 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils',
+110 verbose rebuild   'domutils@1.5.1' ]
+111 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer',
+111 verbose rebuild   'dom-serializer@0.1.0' ]
+112 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype',
+112 verbose rebuild   'domelementtype@1.1.3' ]
+113 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities',
+113 verbose rebuild   'entities@1.1.1' ]
+114 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream',
+114 verbose rebuild   'readable-stream@1.1.13' ]
+115 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is',
+115 verbose rebuild   'core-util-is@1.0.1' ]
+116 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray',
+116 verbose rebuild   'isarray@0.0.1' ]
+117 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder',
+117 verbose rebuild   'string_decoder@0.10.31' ]
+118 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits',
+118 verbose rebuild   'inherits@2.0.1' ]
+119 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/entities',
+119 verbose rebuild   'entities@1.0.0' ]
+120 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch',
+120 verbose rebuild   'minimatch@2.0.10' ]
+121 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion',
+121 verbose rebuild   'brace-expansion@1.1.1' ]
+122 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+122 verbose rebuild   'balanced-match@0.2.1' ]
+123 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+123 verbose rebuild   'concat-map@0.0.1' ]
+124 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/shelljs',
+124 verbose rebuild   'shelljs@0.3.0' ]
+125 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/strip-json-comments',
+125 verbose rebuild   'strip-json-comments@1.0.4' ]
+126 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/lodash',
+126 verbose rebuild   'lodash@3.7.0' ]
+127 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma',
+127 verbose rebuild   'karma@0.13.15' ]
+128 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/batch',
+128 verbose rebuild   'batch@0.5.3' ]
+129 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/bluebird',
+129 verbose rebuild   'bluebird@2.10.2' ]
+130 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser',
+130 verbose rebuild   'body-parser@1.14.1' ]
+131 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/bytes',
+131 verbose rebuild   'bytes@2.1.0' ]
+132 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/content-type',
+132 verbose rebuild   'content-type@1.0.1' ]
+133 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/debug',
+133 verbose rebuild   'debug@2.2.0' ]
+134 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/debug/node_modules/ms',
+134 verbose rebuild   'ms@0.7.1' ]
+135 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/depd',
+135 verbose rebuild   'depd@1.1.0' ]
+136 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/http-errors',
+136 verbose rebuild   'http-errors@1.3.1' ]
+137 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/http-errors/node_modules/inherits',
+137 verbose rebuild   'inherits@2.0.1' ]
+138 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/http-errors/node_modules/statuses',
+138 verbose rebuild   'statuses@1.2.1' ]
+139 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/iconv-lite',
+139 verbose rebuild   'iconv-lite@0.4.12' ]
+140 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/on-finished',
+140 verbose rebuild   'on-finished@2.3.0' ]
+141 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first',
+141 verbose rebuild   'ee-first@1.1.1' ]
+142 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/qs',
+142 verbose rebuild   'qs@5.1.0' ]
+143 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/raw-body',
+143 verbose rebuild   'raw-body@2.1.4' ]
+144 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe',
+144 verbose rebuild   'unpipe@1.0.0' ]
+145 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is',
+145 verbose rebuild   'type-is@1.6.9' ]
+146 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is/node_modules/media-typer',
+146 verbose rebuild   'media-typer@0.3.0' ]
+147 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is/node_modules/mime-types',
+147 verbose rebuild   'mime-types@2.1.7' ]
+148 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db',
+148 verbose rebuild   'mime-db@1.19.0' ]
+149 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar',
+149 verbose rebuild   'chokidar@1.2.0' ]
+150 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch',
+150 verbose rebuild   'anymatch@1.3.0' ]
+151 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/arrify',
+151 verbose rebuild   'arrify@1.0.0' ]
+152 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch',
+152 verbose rebuild   'micromatch@2.3.2' ]
+153 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/arr-diff',
+153 verbose rebuild   'arr-diff@1.1.0' ]
+154 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten',
+154 verbose rebuild   'arr-flatten@1.0.1' ]
+155 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/arr-diff/node_modules/array-slice',
+155 verbose rebuild   'array-slice@0.2.3' ]
+156 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/array-unique',
+156 verbose rebuild   'array-unique@0.2.1' ]
+157 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces',
+157 verbose rebuild   'braces@1.8.2' ]
+158 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range',
+158 verbose rebuild   'expand-range@1.8.1' ]
+159 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range',
+159 verbose rebuild   'fill-range@2.2.2' ]
+160 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/is-number',
+160 verbose rebuild   'is-number@1.1.2' ]
+161 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject',
+161 verbose rebuild   'isobject@1.0.2' ]
+162 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic',
+162 verbose rebuild   'randomatic@1.1.3' ]
+163 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic/node_modules/is-number',
+163 verbose rebuild   'is-number@2.0.2' ]
+164 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic/node_modules/is-number/node_modules/kind-of',
+164 verbose rebuild   'kind-of@1.1.0' ]
+165 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/kind-of',
+165 verbose rebuild   'kind-of@2.0.1' ]
+166 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/kind-of/node_modules/is-buffer',
+166 verbose rebuild   'is-buffer@1.1.0' ]
+167 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/repeat-element',
+167 verbose rebuild   'repeat-element@1.1.2' ]
+168 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/repeat-string',
+168 verbose rebuild   'repeat-string@1.5.2' ]
+169 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/lazy-cache',
+169 verbose rebuild   'lazy-cache@0.2.4' ]
+170 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/preserve',
+170 verbose rebuild   'preserve@0.2.0' ]
+171 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/expand-brackets',
+171 verbose rebuild   'expand-brackets@0.1.4' ]
+172 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob',
+172 verbose rebuild   'extglob@0.3.1' ]
+173 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob/node_modules/ansi-green',
+173 verbose rebuild   'ansi-green@0.1.1' ]
+174 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob/node_modules/ansi-green/node_modules/ansi-wrap',
+174 verbose rebuild   'ansi-wrap@0.1.0' ]
+175 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/is-extglob',
+175 verbose rebuild   'is-extglob@1.0.0' ]
+176 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob/node_modules/success-symbol',
+176 verbose rebuild   'success-symbol@0.1.0' ]
+177 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/filename-regex',
+177 verbose rebuild   'filename-regex@2.0.0' ]
+178 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-glob',
+178 verbose rebuild   'is-glob@2.0.1' ]
+179 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-glob/node_modules/is-extglob',
+179 verbose rebuild   'is-extglob@1.0.0' ]
+180 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/normalize-path',
+180 verbose rebuild   'normalize-path@2.0.0' ]
+181 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit',
+181 verbose rebuild   'object.omit@2.0.0' ]
+182 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit/node_modules/for-own',
+182 verbose rebuild   'for-own@0.1.3' ]
+183 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/node_modules/for-in',
+183 verbose rebuild   'for-in@0.1.4' ]
+184 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable',
+184 verbose rebuild   'is-extendable@0.1.1' ]
+185 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/parse-glob',
+185 verbose rebuild   'parse-glob@3.0.4' ]
+186 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base',
+186 verbose rebuild   'glob-base@0.3.0' ]
+187 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/glob-parent',
+187 verbose rebuild   'glob-parent@2.0.0' ]
+188 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/parse-glob/node_modules/is-dotfile',
+188 verbose rebuild   'is-dotfile@1.0.2' ]
+189 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache',
+189 verbose rebuild   'regex-cache@0.4.2' ]
+190 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache/node_modules/is-equal-shallow',
+190 verbose rebuild   'is-equal-shallow@0.1.3' ]
+191 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive',
+191 verbose rebuild   'is-primitive@2.0.0' ]
+192 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/async-each',
+192 verbose rebuild   'async-each@0.1.6' ]
+193 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-binary-path',
+193 verbose rebuild   'is-binary-path@1.0.1' ]
+194 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-binary-path/node_modules/binary-extensions',
+194 verbose rebuild   'binary-extensions@1.3.1' ]
+195 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten',
+195 verbose rebuild   'lodash.flatten@3.0.2' ]
+196 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._baseflatten',
+196 verbose rebuild   'lodash._baseflatten@3.1.4' ]
+197 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._baseflatten/node_modules/lodash.isarguments',
+197 verbose rebuild   'lodash.isarguments@3.0.4' ]
+198 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._baseflatten/node_modules/lodash.isarray',
+198 verbose rebuild   'lodash.isarray@3.0.4' ]
+199 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._isiterateecall',
+199 verbose rebuild   'lodash._isiterateecall@3.0.9' ]
+200 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/path-is-absolute',
+200 verbose rebuild   'path-is-absolute@1.0.0' ]
+201 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp',
+201 verbose rebuild   'readdirp@2.0.0' ]
+202 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/graceful-fs',
+202 verbose rebuild   'graceful-fs@4.1.2' ]
+203 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch',
+203 verbose rebuild   'minimatch@2.0.10' ]
+204 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/brace-expansion',
+204 verbose rebuild   'brace-expansion@1.1.1' ]
+205 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+205 verbose rebuild   'balanced-match@0.2.1' ]
+206 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+206 verbose rebuild   'concat-map@0.0.1' ]
+207 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream',
+207 verbose rebuild   'readable-stream@2.0.4' ]
+208 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/core-util-is',
+208 verbose rebuild   'core-util-is@1.0.1' ]
+209 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/inherits',
+209 verbose rebuild   'inherits@2.0.1' ]
+210 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/isarray',
+210 verbose rebuild   'isarray@0.0.1' ]
+211 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/process-nextick-args',
+211 verbose rebuild   'process-nextick-args@1.0.3' ]
+212 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/string_decoder',
+212 verbose rebuild   'string_decoder@0.10.31' ]
+213 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/util-deprecate',
+213 verbose rebuild   'util-deprecate@1.0.2' ]
+214 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/colors',
+214 verbose rebuild   'colors@1.1.2' ]
+215 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect',
+215 verbose rebuild   'connect@3.4.0' ]
+216 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/debug',
+216 verbose rebuild   'debug@2.2.0' ]
+217 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/debug/node_modules/ms',
+217 verbose rebuild   'ms@0.7.1' ]
+218 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler',
+218 verbose rebuild   'finalhandler@0.4.0' ]
+219 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/escape-html',
+219 verbose rebuild   'escape-html@1.0.2' ]
+220 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/on-finished',
+220 verbose rebuild   'on-finished@2.3.0' ]
+221 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/on-finished/node_modules/ee-first',
+221 verbose rebuild   'ee-first@1.1.1' ]
+222 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/unpipe',
+222 verbose rebuild   'unpipe@1.0.0' ]
+223 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/parseurl',
+223 verbose rebuild   'parseurl@1.3.0' ]
+224 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/utils-merge',
+224 verbose rebuild   'utils-merge@1.0.0' ]
+225 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/core-js',
+225 verbose rebuild   'core-js@1.2.6' ]
+226 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/di',
+226 verbose rebuild   'di@0.0.1' ]
+227 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize',
+227 verbose rebuild   'dom-serialize@2.2.1' ]
+228 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/custom-event',
+228 verbose rebuild   'custom-event@1.0.0' ]
+229 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/ent',
+229 verbose rebuild   'ent@2.2.0' ]
+230 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/extend',
+230 verbose rebuild   'extend@3.0.0' ]
+231 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/void-elements',
+231 verbose rebuild   'void-elements@2.0.1' ]
+232 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces',
+232 verbose rebuild   'expand-braces@0.1.2' ]
+233 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/array-slice',
+233 verbose rebuild   'array-slice@0.2.3' ]
+234 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/array-unique',
+234 verbose rebuild   'array-unique@0.2.1' ]
+235 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces',
+235 verbose rebuild   'braces@0.1.5' ]
+236 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces/node_modules/expand-range',
+236 verbose rebuild   'expand-range@0.1.1' ]
+237 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces/node_modules/expand-range/node_modules/is-number',
+237 verbose rebuild   'is-number@0.1.1' ]
+238 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces/node_modules/expand-range/node_modules/repeat-string',
+238 verbose rebuild   'repeat-string@0.2.2' ]
+239 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob',
+239 verbose rebuild   'glob@5.0.15' ]
+240 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/inflight',
+240 verbose rebuild   'inflight@1.0.4' ]
+241 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/once',
+241 verbose rebuild   'once@1.3.2' ]
+242 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/once/node_modules/wrappy',
+242 verbose rebuild   'wrappy@1.0.1' ]
+243 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/inflight/node_modules/wrappy',
+243 verbose rebuild   'wrappy@1.0.1' ]
+244 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/inherits',
+244 verbose rebuild   'inherits@2.0.1' ]
+245 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch',
+245 verbose rebuild   'minimatch@3.0.0' ]
+246 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch/node_modules/brace-expansion',
+246 verbose rebuild   'brace-expansion@1.1.1' ]
+247 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+247 verbose rebuild   'balanced-match@0.2.1' ]
+248 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+248 verbose rebuild   'concat-map@0.0.1' ]
+249 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/path-is-absolute',
+249 verbose rebuild   'path-is-absolute@1.0.0' ]
+250 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/http-proxy',
+250 verbose rebuild   'http-proxy@1.12.0' ]
+251 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/http-proxy/node_modules/eventemitter3',
+251 verbose rebuild   'eventemitter3@1.1.1' ]
+252 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/http-proxy/node_modules/requires-port',
+252 verbose rebuild   'requires-port@0.0.1' ]
+253 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/lodash',
+253 verbose rebuild   'lodash@3.10.1' ]
+254 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js',
+254 verbose rebuild   'log4js@0.6.27' ]
+255 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/async',
+255 verbose rebuild   'async@0.2.10' ]
+256 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream',
+256 verbose rebuild   'readable-stream@1.0.33' ]
+257 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/core-util-is',
+257 verbose rebuild   'core-util-is@1.0.1' ]
+258 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/isarray',
+258 verbose rebuild   'isarray@0.0.1' ]
+259 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/string_decoder',
+259 verbose rebuild   'string_decoder@0.10.31' ]
+260 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/inherits',
+260 verbose rebuild   'inherits@2.0.1' ]
+261 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/semver',
+261 verbose rebuild   'semver@4.3.6' ]
+262 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/underscore',
+262 verbose rebuild   'underscore@1.8.2' ]
+263 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/mime',
+263 verbose rebuild   'mime@1.3.4' ]
+264 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/optimist',
+264 verbose rebuild   'optimist@0.6.1' ]
+265 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/optimist/node_modules/wordwrap',
+265 verbose rebuild   'wordwrap@0.0.3' ]
+266 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/optimist/node_modules/minimist',
+266 verbose rebuild   'minimist@0.0.10' ]
+267 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/rimraf',
+267 verbose rebuild   'rimraf@2.4.3' ]
+268 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io',
+268 verbose rebuild   'socket.io@1.3.7' ]
+269 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io',
+269 verbose rebuild   'engine.io@1.5.4' ]
+270 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/base64id',
+270 verbose rebuild   'base64id@0.1.0' ]
+271 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/debug',
+271 verbose rebuild   'debug@1.0.3' ]
+272 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/debug/node_modules/ms',
+272 verbose rebuild   'ms@0.6.2' ]
+273 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser',
+273 verbose rebuild   'engine.io-parser@1.2.2' ]
+274 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after',
+274 verbose rebuild   'after@0.8.1' ]
+275 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice',
+275 verbose rebuild   'arraybuffer.slice@0.0.6' ]
+276 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer',
+276 verbose rebuild   'base64-arraybuffer@0.1.2' ]
+277 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob',
+277 verbose rebuild   'blob@0.0.4' ]
+278 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary',
+278 verbose rebuild   'has-binary@0.1.6' ]
+279 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary/node_modules/isarray',
+279 verbose rebuild   'isarray@0.0.1' ]
+280 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/utf8',
+280 verbose rebuild   'utf8@2.1.0' ]
+281 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws',
+281 verbose rebuild   'ws@0.8.0' ]
+282 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/options',
+282 verbose rebuild   'options@0.0.6' ]
+283 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/ultron',
+283 verbose rebuild   'ultron@1.0.2' ]
+284 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser',
+284 verbose rebuild   'socket.io-parser@2.2.4' ]
+285 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/debug',
+285 verbose rebuild   'debug@0.7.4' ]
+286 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/json3',
+286 verbose rebuild   'json3@3.2.6' ]
+287 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter',
+287 verbose rebuild   'component-emitter@1.1.2' ]
+288 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/isarray',
+288 verbose rebuild   'isarray@0.0.1' ]
+289 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/benchmark',
+289 verbose rebuild   'benchmark@1.0.0' ]
+290 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client',
+290 verbose rebuild   'socket.io-client@1.3.7' ]
+291 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/debug',
+291 verbose rebuild   'debug@0.7.4' ]
+292 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client',
+292 verbose rebuild   'engine.io-client@1.5.4' ]
+293 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-emitter',
+293 verbose rebuild   'component-emitter@1.1.2' ]
+294 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-inherit',
+294 verbose rebuild   'component-inherit@0.0.3' ]
+295 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug',
+295 verbose rebuild   'debug@1.0.4' ]
+296 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/node_modules/ms',
+296 verbose rebuild   'ms@0.6.2' ]
+297 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser',
+297 verbose rebuild   'engine.io-parser@1.2.2' ]
+298 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after',
+298 verbose rebuild   'after@0.8.1' ]
+299 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice',
+299 verbose rebuild   'arraybuffer.slice@0.0.6' ]
+300 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer',
+300 verbose rebuild   'base64-arraybuffer@0.1.2' ]
+301 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob',
+301 verbose rebuild   'blob@0.0.4' ]
+302 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-binary',
+302 verbose rebuild   'has-binary@0.1.6' ]
+303 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-binary/node_modules/isarray',
+303 verbose rebuild   'isarray@0.0.1' ]
+304 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/utf8',
+304 verbose rebuild   'utf8@2.1.0' ]
+305 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors',
+305 verbose rebuild   'has-cors@1.0.3' ]
+306 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors/node_modules/global',
+306 verbose rebuild   'global@2.0.1' ]
+307 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/indexof',
+307 verbose rebuild   'indexof@0.0.1' ]
+308 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson',
+308 verbose rebuild   'parsejson@0.0.1' ]
+309 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/node_modules/better-assert',
+309 verbose rebuild   'better-assert@1.0.2' ]
+310 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/node_modules/better-assert/node_modules/callsite',
+310 verbose rebuild   'callsite@1.0.0' ]
+311 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs',
+311 verbose rebuild   'parseqs@0.0.2' ]
+312 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert',
+312 verbose rebuild   'better-assert@1.0.2' ]
+313 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite',
+313 verbose rebuild   'callsite@1.0.0' ]
+314 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri',
+314 verbose rebuild   'parseuri@0.0.4' ]
+315 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert',
+315 verbose rebuild   'better-assert@1.0.2' ]
+316 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite',
+316 verbose rebuild   'callsite@1.0.0' ]
+317 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws',
+317 verbose rebuild   'ws@0.8.0' ]
+318 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/options',
+318 verbose rebuild   'options@0.0.6' ]
+319 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron',
+319 verbose rebuild   'ultron@1.0.2' ]
+320 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest',
+320 verbose rebuild   'xmlhttprequest@1.5.0' ]
+321 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-bind',
+321 verbose rebuild   'component-bind@1.0.0' ]
+322 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/object-component',
+322 verbose rebuild   'object-component@0.0.3' ]
+323 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri',
+323 verbose rebuild   'parseuri@0.0.2' ]
+324 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert',
+324 verbose rebuild   'better-assert@1.0.2' ]
+325 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite',
+325 verbose rebuild   'callsite@1.0.0' ]
+326 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/to-array',
+326 verbose rebuild   'to-array@0.1.3' ]
+327 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/backo2',
+327 verbose rebuild   'backo2@1.0.2' ]
+328 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter',
+328 verbose rebuild   'socket.io-adapter@0.3.1' ]
+329 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/debug',
+329 verbose rebuild   'debug@1.0.2' ]
+330 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/debug/node_modules/ms',
+330 verbose rebuild   'ms@0.6.2' ]
+331 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser',
+331 verbose rebuild   'socket.io-parser@2.2.2' ]
+332 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/debug',
+332 verbose rebuild   'debug@0.7.4' ]
+333 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/json3',
+333 verbose rebuild   'json3@3.2.6' ]
+334 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/component-emitter',
+334 verbose rebuild   'component-emitter@1.1.2' ]
+335 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/isarray',
+335 verbose rebuild   'isarray@0.0.1' ]
+336 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/benchmark',
+336 verbose rebuild   'benchmark@1.0.0' ]
+337 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/object-keys',
+337 verbose rebuild   'object-keys@1.0.1' ]
+338 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/has-binary-data',
+338 verbose rebuild   'has-binary-data@0.1.3' ]
+339 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/has-binary-data/node_modules/isarray',
+339 verbose rebuild   'isarray@0.0.1' ]
+340 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/debug',
+340 verbose rebuild   'debug@2.1.0' ]
+341 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/debug/node_modules/ms',
+341 verbose rebuild   'ms@0.6.2' ]
+342 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/source-map',
+342 verbose rebuild   'source-map@0.5.3' ]
+343 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/useragent',
+343 verbose rebuild   'useragent@2.1.7' ]
+344 verbose rebuild path, id [ '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/useragent/node_modules/lru-cache',
+344 verbose rebuild   'lru-cache@2.2.4' ]
+345 silly rebuild set [ '/home/ubuntu/workspace/tddtabs/node_modules/karma-commonjs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma-mocha',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/semver',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/chai',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/assertion-error',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/deep-eql',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/deep-eql/node_modules/type-detect',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/chai/node_modules/type-detect',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/test',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/test/node_modules/ansi-font',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q/node_modules/asap',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q/node_modules/pop-iterate',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/commonjs/node_modules/system/node_modules/q/node_modules/weak-map',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/colors',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/optimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/optimist/node_modules/wordwrap',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/optimist/node_modules/minimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/union',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/union/node_modules/qs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/he',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/mime',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/minimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/ecstatic/node_modules/url-join',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/http-proxy',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/http-proxy/node_modules/eventemitter3',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/http-proxy/node_modules/requires-port',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder/node_modules/async',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder/node_modules/mkdirp',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/portfinder/node_modules/mkdirp/node_modules/minimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/opener',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/http-server/node_modules/corser',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/commander',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/diff',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/escape-string-regexp',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/graceful-fs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/glob/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/growl',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/jade',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/jade/node_modules/commander',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/jade/node_modules/mkdirp',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/mkdirp',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/mkdirp/node_modules/minimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/mocha/node_modules/supports-color',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/lru-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/sigmund',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/filelist/node_modules/utilities',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/minimatch/node_modules/lru-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/minimatch/node_modules/sigmund',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk/node_modules/has-color',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk/node_modules/ansi-styles',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/chalk/node_modules/strip-ansi',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/utilities',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jake/node_modules/async',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/array-to-sentence',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/object-assign',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/q',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/array-to-sentence',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/object-assign',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/simplebuild-karma/node_modules/simplebuild/node_modules/q',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/exit',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/console-browserify',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/console-browserify/node_modules/date-now',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domelementtype',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/htmlparser2/node_modules/entities',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/shelljs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/strip-json-comments',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/jshint/node_modules/lodash',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/batch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/bluebird',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/bytes',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/content-type',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/depd',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/http-errors',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/http-errors/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/http-errors/node_modules/statuses',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/iconv-lite',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/on-finished',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/qs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/raw-body',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is/node_modules/media-typer',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is/node_modules/mime-types',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/arrify',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/arr-diff',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/arr-diff/node_modules/arr-flatten',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/arr-diff/node_modules/array-slice',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/array-unique',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/is-number',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic/node_modules/is-number',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/randomatic/node_modules/is-number/node_modules/kind-of',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/kind-of',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/kind-of/node_modules/is-buffer',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/repeat-element',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/repeat-string',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/lazy-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/braces/node_modules/preserve',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/expand-brackets',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob/node_modules/ansi-green',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob/node_modules/ansi-green/node_modules/ansi-wrap',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/is-extglob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/extglob/node_modules/success-symbol',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/filename-regex',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-glob/node_modules/is-extglob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/normalize-path',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit/node_modules/for-own',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/node_modules/for-in',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/parse-glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/glob-parent',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/parse-glob/node_modules/is-dotfile',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache/node_modules/is-equal-shallow',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/async-each',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-binary-path',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/is-binary-path/node_modules/binary-extensions',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._baseflatten',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._baseflatten/node_modules/lodash.isarguments',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._baseflatten/node_modules/lodash.isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/lodash.flatten/node_modules/lodash._isiterateecall',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/path-is-absolute',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/graceful-fs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/brace-expansion',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/core-util-is',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/process-nextick-args',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/string_decoder',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/util-deprecate',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/colors',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/escape-html',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/on-finished',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/on-finished/node_modules/ee-first',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/finalhandler/node_modules/unpipe',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/parseurl',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/connect/node_modules/utils-merge',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/core-js',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/di',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/custom-event',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/ent',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/extend',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/dom-serialize/node_modules/void-elements',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/array-slice',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/array-unique',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces/node_modules/expand-range',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces/node_modules/expand-range/node_modules/is-number',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/expand-braces/node_modules/braces/node_modules/expand-range/node_modules/repeat-string',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/inflight',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/once',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/once/node_modules/wrappy',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/inflight/node_modules/wrappy',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch/node_modules/brace-expansion',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/glob/node_modules/path-is-absolute',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/http-proxy',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/http-proxy/node_modules/eventemitter3',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/http-proxy/node_modules/requires-port',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/lodash',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/async',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/core-util-is',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/string_decoder',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/readable-stream/node_modules/inherits',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/semver',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/log4js/node_modules/underscore',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/mime',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/optimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/optimist/node_modules/wordwrap',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/optimist/node_modules/minimist',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/rimraf',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/base64id',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/utf8',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/options',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/ultron',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/json3',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-parser/node_modules/benchmark',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-emitter',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-inherit',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-binary',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/has-binary/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/utf8',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors/node_modules/global',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/indexof',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/node_modules/better-assert',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/node_modules/better-assert/node_modules/callsite',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/options',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-bind',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/object-component',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/to-array',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/backo2',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/json3',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/component-emitter',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/benchmark',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/object-keys',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/has-binary-data',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/has-binary-data/node_modules/isarray',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/debug',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/socket.io/node_modules/debug/node_modules/ms',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/source-map',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/useragent',
+345 silly rebuild set   '/home/ubuntu/workspace/tddtabs/node_modules/karma/node_modules/useragent/node_modules/lru-cache' ]
+346 info build /home/ubuntu/workspace/tddtabs/node_modules/karma-commonjs
+347 info preinstall karma-commonjs@0.0.13
+348 info linkStuff karma-commonjs@0.0.13
+349 silly linkStuff karma-commonjs@0.0.13 has /home/ubuntu/workspace/tddtabs/node_modules as its parent node_modules
+350 verbose linkBins karma-commonjs@0.0.13
+351 verbose linkMans karma-commonjs@0.0.13
+352 verbose rebuildBundles karma-commonjs@0.0.13
+353 info install karma-commonjs@0.0.13
+354 info postinstall karma-commonjs@0.0.13
+355 info build /home/ubuntu/workspace/tddtabs/node_modules/karma-mocha
+356 info preinstall karma-mocha@0.2.0
+357 info linkStuff karma-mocha@0.2.0
+358 silly linkStuff karma-mocha@0.2.0 has /home/ubuntu/workspace/tddtabs/node_modules as its parent node_modules
+359 verbose linkBins karma-mocha@0.2.0
+360 verbose linkMans karma-mocha@0.2.0
+361 verbose rebuildBundles karma-mocha@0.2.0
+362 info install karma-mocha@0.2.0
+363 info postinstall karma-mocha@0.2.0
+364 info build /home/ubuntu/workspace/tddtabs/node_modules/semver
+365 info preinstall semver@5.0.3
+366 info linkStuff semver@5.0.3
+367 silly linkStuff semver@5.0.3 has /home/ubuntu/workspace/tddtabs/node_modules as its parent node_modules
+368 verbose linkBins semver@5.0.3
+369 verbose link bins [ { semver: './bin/semver' },
+369 verbose link bins   '/home/ubuntu/workspace/tddtabs/node_modules/.bin',
+369 verbose link bins   false ]
+370 verbose linkMans semver@5.0.3
+371 verbose rebuildBundles semver@5.0.3
+372 verbose stack Error: ENOENT: no such file or directory, chmod '/home/ubuntu/workspace/tddtabs/node_modules/semver/bin/semver'
+372 verbose stack     at Error (native)
+373 verbose cwd /home/ubuntu/workspace/tddtabs
+374 error Linux 4.2.0-c9
+375 error argv "/home/ubuntu/.nvm/versions/node/v4.1.1/bin/node" "/home/ubuntu/.nvm/versions/node/v4.1.1/bin/npm" "rebuild"
+376 error node v4.1.1
+377 error npm  v2.14.4
+378 error path /home/ubuntu/workspace/tddtabs/node_modules/semver/bin/semver
+379 error code ENOENT
+380 error errno -2
+381 error syscall chmod
+382 error enoent ENOENT: no such file or directory, chmod '/home/ubuntu/workspace/tddtabs/node_modules/semver/bin/semver'
+382 error enoent This is most likely not a problem with npm itself
+382 error enoent and is related to npm not being able to find a file.
+383 verbose exit [ -2, true ]
